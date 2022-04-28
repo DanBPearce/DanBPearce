@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @DanBPearce a System Administrator at an MSP with a passion for automation!
+- 👀 I’m interested in Azure, Powershell, and Intune.
+- 🌱 I’m currently learning the Azure Administrator Associate Course (AZ-104) on ITProTV.
+- 💞️ I’m looking to collaborate on Powershell/Batch scripts!
+- 📫 You can reach me at DanBPearce@gmail.com
